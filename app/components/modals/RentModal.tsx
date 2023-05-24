@@ -258,7 +258,7 @@ const RentModal = () => {
         />
         <Input
           id="price"
-          label="&#x20B9; Rupee"
+          label="Rupee"
           formatPrice 
           type="number" 
           disabled={isLoading}
