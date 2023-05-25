@@ -7,7 +7,7 @@ import {
   SubmitHandler, 
   useForm
 } from 'react-hook-form';
-import dynamic from 'next/dynamic'
+import dynamic from 'next/dynamic' 
 import { useRouter } from 'next/navigation';
 import { useMemo, useState } from "react";
 
